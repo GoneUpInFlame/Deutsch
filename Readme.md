@@ -1,10 +1,10 @@
 > Hallo! Ich hieße Maksim. (Ich bin Maksim/ Mein Name ist Maksim Halynchik). Ich spreche Russisch, ein bisschen Englisch und ein bisschen Deutsch. Ich bin Student. Ich studiere Informatik in Moskau. Es ist schwierig dort zu studieren, aber ich bin zufrieden. Ich fahre zu Semesterbeginn mit dem Zug nach Moskau und wohne dort im Studentenheim. Aber jetzt bin ich in Weißrussland. Ich lebe in Vitebsk in der Wohnung meiner Mutter.
 
 
-Gut gesagt: Wie bitte? - Хорошо сказано: Простите?
-Entschuldigung, noch einmal bitte. - повторите пожалуйста
-Das verstehe ich nicht - я не понимаю
-Bitte ein bisschen langsamer - Немного медленнее, пожалуйста
+Gut gesagt: Wie bitte? - Хорошо сказано: Простите? \
+Entschuldigung, noch einmal bitte. - повторите пожалуйста \
+Das verstehe ich nicht - я не понимаю \
+Bitte ein bisschen langsamer - Немного медленнее, пожалуйста \
 
 |                    |                                                                                                                                       |
 | :----------------- | ------------------------------------------------------------------------------------------------------------------------------------: |
@@ -43,19 +43,19 @@ Bitte ein bisschen langsamer - Немного медленнее, пожалуй
 | :------ | :-----: | -----: |
 | gestern | heute   | morgen |
 
-die Woche - неделя
+die Woche - неделя \
 
-***Days of week (Wochentage)***:
+***Days of week (Wochentage)***: \
 
 | Понедельник | Вторник    | Среда      | Четверг      | Пятница   | Суббота   | Воскресенье |
 | :---------- | :--------: |:---------: | :----------: | :-------: |:--------: | ----------: |
 | r Montag    | r Dienstag | r Mittwoch | r Donnerstag | r Freitag | r Samstag | r Sonntag   |
 
-von 9 bis 10 - с ... до ...
-1 monat, 2 Monate, 3 Monate
-
-Ich lerne seit 1 Monat Deutsch. Ich bin hier nach Intensiv A1-1
-ich fliege ein stunde - я лечу час
+von 9 bis 10 - с ... до ... \
+1 monat, 2 Monate, 3 Monate \ 
+ \
+Ich lerne seit 1 Monat Deutsch. Ich bin hier nach Intensiv A1-1 \
+ich fliege eine stunde - я лечу час \
 
 <hr />
 
@@ -73,7 +73,7 @@ ich fliege ein stunde - я лечу час
 | Wie oft  | Как часто  |
 | Wie viel | Сколько    |
 
-- verb = Position 2
+- verb = Position 2 \
 
 | Vorfield        | Verb(1)  | Mittelfeld | Verb(2) |
 | :-------------- | :------: | :--------: | ------: |
@@ -133,19 +133,19 @@ ich fliege ein stunde - я лечу час
 
 <hr />
 
-Punkt - точка
+Punkt - точка \
 
-seit = noch
-die farbe 
-meine Leiblingsfarbe
-Ich habe nicht
-ruhig
-die Flugzeit
-laut
-das Dorf
-die Großstadt
-die Haupstadt - столица
-die Zeit - время 
-Vollzeitstudium - очное обучение
-Ich war noch nicht in Deutschland
+seit = noch \
+die farbe \
+meine Leiblingsfarbe \
+Ich habe nicht \
+ruhig \
+die Flugzeit \
+laut \
+das Dorf \
+die Großstadt \
+die Haupstadt - столица \
+die Zeit - время \
+Vollzeitstudium - очное обучение \
+Ich war noch nicht in Deutschland \
 
