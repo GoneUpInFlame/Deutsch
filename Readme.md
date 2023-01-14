@@ -146,7 +146,6 @@ das Dorf
 die Großstadt
 die Haupstadt - столица
 die Zeit - время 
-![[Pasted image 20230109115459.png]]
 Vollzeitstudium - очное обучение
 Ich war noch nicht in Deutschland
 
