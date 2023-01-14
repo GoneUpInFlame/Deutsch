@@ -15,8 +15,8 @@ Bitte ein bisschen langsamer - Немного медленнее, пожалуй
 | :-------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Hallo!                                  |                                                                                                                                                                                       |
 | Wer bist du? / Wie heißt du?            | Ich heiße ... / Ich bin ...                                                                                                                                                           |
-| Wie geht's (geht es)? / Wie geht's dir? | Es geht mir sehr gut.&#128513&#128513&#128513 / Danke, fantastich.&#128513&#128513&#128513 / Danke, sehr gut.&#128513&#128513&#128513                                                 |
-| Und dir?                                | Danke, sehr gut!&#128513&#128513 / Danke, gut!&#128513&#128513 / Danke, gut!&#128513 / Es geht!&#128513 / Auch gut, danke.&#128513 / Ganz gut.&#128528 / Danke, nicht so gut.&#128577 |
+| Wie geht's (geht es)? / Wie geht's dir? | Es geht mir sehr gut.&#128513;&#128513;&#128513; / Danke, fantastich.&#128513;&#128513;&#128513; / Danke, sehr gut.&#128513;&#128513;&#128513;                                                 |
+| Und dir?                                | Danke, sehr gut!&#128513;&#128513; / Danke, gut!&#128513;&#128513; / Danke, gut!&#128513; / Es geht!&#128513; / Auch gut, danke.&#128513; / Ganz gut.&#128528; / Danke, nicht so gut.&#128577; |
 | Tschüs! / Ciao!                         |                                                                                                                                                                                       |
 
 |                              |                                                                       |
