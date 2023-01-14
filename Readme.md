@@ -52,10 +52,9 @@ die Woche - неделя
 | r Montag    | r Dienstag | r Mittwoch | r Donnerstag | r Freitag | r Samstag | r Sonntag   |
 
 von 9 bis 10 - с ... до ... \
-1 monat, 2 Monate, 3 Monate \ 
- \
+1 monat, 2 Monate, 3 Monate \
 Ich lerne seit 1 Monat Deutsch. Ich bin hier nach Intensiv A1-1 \
-ich fliege eine stunde - я лечу час \
+ich fliege eine stunde - я лечу час
 
 <hr />
 
@@ -133,7 +132,7 @@ ich fliege eine stunde - я лечу час \
 
 <hr />
 
-Punkt - точка \
+Punkt - точка
 
 seit = noch \
 die farbe \
@@ -147,5 +146,5 @@ die Großstadt \
 die Haupstadt - столица \
 die Zeit - время \
 Vollzeitstudium - очное обучение \
-Ich war noch nicht in Deutschland \
+Ich war noch nicht in Deutschland 
 
